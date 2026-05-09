@@ -22,8 +22,8 @@ cinnamon_ratio, clove_ration = clove_ration, cinnamon_ratio
 print(f"Cinnamon Ratio: {cinnamon_ratio}")
 print(f"Clove Ratio: {clove_ration}")
 
-#membership
-#in works with tuples to check if an element exists in the tuple
+# membership
+# in works with tuples to check if an element exists in the tuple
 print(f"is masala in spices? {'masala' in spices}") # False
 print(f"is cinnamon in spices? {'cinnamon' in spices}") # True
 
